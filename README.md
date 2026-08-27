@@ -20,7 +20,7 @@ Here is a documented history of my hands-on labs and security assessments.
 2.  **[Ubuntu Network Firewall Configuration](https://github.com/Ayo165/Ubuntu-Network-Firewall-Configuration/blob/main/README.md)** - *Linux, UFW, Access Control, Infrastructure Protection*
 3.  **[Organizational Risk Assessment](https://github.com/Ayo165/Organizational-Risk-Assessment/tree/main)** - *Threat Modeling, Mitigation Strategies, Asset Security*
 4.  **[Detection Lab & Password Spray Attack](https://github.com/Ayo165/Active-Directory-Detection-Lab/blob/main/README.md)** - *Active Directory, Windows Server, Splunk*
-5.  **[Phishing Investigation & Triage](#)** - *Email Analysis, Python, IOC Extraction*
+5.  **[Phishing Investigation & Triage](https://github.com/Ayo165/Phishing-Investigation-Triage/tree/main)** - *Email Analysis, Python, IOC Extraction*
 6.  **[NIST Incident Response Playbook](#)** - *IR Process, Tabletop Testing, Documentation*
 7.  **[Cloud & IAM Security Assessment](#)** - *Cloud Misconfigurations, Privilege Escalation*
 8.  **[Vulnerability Management Report](#)** - *Nmap Scanning, Risk Prioritization, Remediation*
