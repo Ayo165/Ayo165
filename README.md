@@ -24,7 +24,7 @@ Here is a documented history of my hands-on labs and security assessments.
 6.  **[NIST Incident Response Playbook](https://github.com/Ayo165/NIST-IR-Playbook/tree/main)** - *IR Process, Tabletop Testing, Documentation*
 7.  **[Cloud & IAM Security Assessment](https://github.com/Ayo165/Cloud-IAM-Security-Assessment/tree/main)** - *Cloud Misconfigurations, Privilege Escalation*
 8.  **[Vulnerability Management Report](https://github.com/Ayo165/Vulnerability-Management-Report/tree/main)** - *Nmap Scanning, Risk Prioritization, Remediation*
-9.  **[Security Risk Assessment](#)** - *NIST CSF, GRC, Controls Analysis*
+9.  **[Security Risk Assessment](https://github.com/Ayo165/NIST-Security-Risk-Assessment/tree/main)** - *NIST CSF, GRC, Controls Analysis*
 10. **[AI Security Assessment](#)** - *Local LLM, Prompt Injection, AI Governance*
 
 ---
