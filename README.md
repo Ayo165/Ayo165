@@ -13,16 +13,19 @@ I am a dedicated cybersecurity professional with a foundation in highly analytic
 
 ---
 
-### 📂 Cybersecurity Portfolio (The 7 Projects)
+### 📂 Cybersecurity Portfolio (The 10 Projects)
 Here is a documented history of my hands-on labs and security assessments. 
 
-1.  **[Detection Lab & Password Spray Attack](#)** - *Active Directory, Windows Server, Splunk*
-2.  **[Phishing Investigation & Triage](#)** - *Email Analysis, Python, IOC Extraction*
-3.  **[NIST Incident Response Playbook](#)** - *IR Process, Tabletop Testing, Documentation*
-4.  **[Cloud & IAM Security Assessment](#)** - *Cloud Misconfigurations, Privilege Escalation*
-5.  **[Vulnerability Management Report](#)** - *Nmap Scanning, Risk Prioritization, Remediation*
-6.  **[Security Risk Assessment](#)** - *NIST CSF, GRC, Controls Analysis*
-7.  **[AI Security Assessment](#)** - *Local LLM, Prompt Injection, AI Governance*
+1.  **[ELK Stack SIEM Implementation](#)** - *Elasticsearch, Logstash, Kibana, Log Analysis*
+2.  **[Ubuntu Network Firewall Configuration](#)** - *Linux, UFW, Access Control, Infrastructure Protection*
+3.  **[Organizational Risk Assessment](#)** - *Threat Modeling, Mitigation Strategies, Asset Security*
+4.  **[Detection Lab & Password Spray Attack](#)** - *Active Directory, Windows Server, Splunk*
+5.  **[Phishing Investigation & Triage](#)** - *Email Analysis, Python, IOC Extraction*
+6.  **[NIST Incident Response Playbook](#)** - *IR Process, Tabletop Testing, Documentation*
+7.  **[Cloud & IAM Security Assessment](#)** - *Cloud Misconfigurations, Privilege Escalation*
+8.  **[Vulnerability Management Report](#)** - *Nmap Scanning, Risk Prioritization, Remediation*
+9.  **[Security Risk Assessment](#)** - *NIST CSF, GRC, Controls Analysis*
+10. **[AI Security Assessment](#)** - *Local LLM, Prompt Injection, AI Governance*
 
 ---
 
