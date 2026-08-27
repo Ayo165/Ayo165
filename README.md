@@ -1,4 +1,4 @@
-# Hi, I'm Durojaiye Ayokunle Adebayo 😉
+# Hi, I'm Durojaiye Ayokunle 😉
 
 ### Cybersecurity Analyst | Security Researcher
 I am a dedicated cybersecurity professional with a foundation in highly analytical, systems-level problem solving. I am a First-Class undergrad student in Mechanical Engineering, I bring a rigorous, fact-based, and process-driven approach to threat detection, incident response, and risk management. I focus on building secure architectures and mitigating vulnerabilities in complex environments.
@@ -19,7 +19,7 @@ Here is a documented history of my hands-on labs and security assessments.
 1.  **[ELK Stack SIEM Implementation](https://github.com/Ayo165/ELK-Stack-SIEM-Implementation/tree/main)** - *Elasticsearch, Logstash, Kibana, Log Analysis*
 2.  **[Ubuntu Network Firewall Configuration](https://github.com/Ayo165/Ubuntu-Network-Firewall-Configuration/blob/main/README.md)** - *Linux, UFW, Access Control, Infrastructure Protection*
 3.  **[Organizational Risk Assessment](https://github.com/Ayo165/Organizational-Risk-Assessment/tree/main)** - *Threat Modeling, Mitigation Strategies, Asset Security*
-4.  **[Detection Lab & Password Spray Attack](#)** - *Active Directory, Windows Server, Splunk*
+4.  **[Detection Lab & Password Spray Attack](https://github.com/Ayo165/Active-Directory-Detection-Lab/blob/main/README.md)** - *Active Directory, Windows Server, Splunk*
 5.  **[Phishing Investigation & Triage](#)** - *Email Analysis, Python, IOC Extraction*
 6.  **[NIST Incident Response Playbook](#)** - *IR Process, Tabletop Testing, Documentation*
 7.  **[Cloud & IAM Security Assessment](#)** - *Cloud Misconfigurations, Privilege Escalation*
