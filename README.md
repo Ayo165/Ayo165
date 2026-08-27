@@ -27,8 +27,11 @@ Here is a documented history of my hands-on labs and security assessments.
 ---
 
 ### 📜 Certifications & Resume
-*   [Insert Certification 1 Name Here]
-*   [Insert Certification 2 Name Here]
+*   **[Network Defense by CISCO Networking Academy](https://www.credly.com/badges/a0ad8cf1-c2ae-4e50-bb99-28ed6b102df2/print)**
+*   **[Junior Cybersecurity Analyst Career Path by CISCO Networking Academy](https://www.credly.com/badges/c9b2d06c-3cbc-4cc3-9efc-dd4fc4ddfc85/print)**
+*   **[Endpoint Security by CISCO Networking Academy](https://www.credly.com/badges/b5864460-009c-4ab1-987a-c1b9220a8e64/print)**
+*   **[Cyber Threat Management by CISCO Networking Academy](https://www.credly.com/badges/da666dc9-2639-46df-9798-f4187ed5cd31/print)**
+*   **[Network Support and Security by CISCO Networking Academy](https://www.credly.com/badges/dd2b0b6f-89d3-40c6-8567-8f0aff62b363/print)**
 *   📄 **[Download my complete CV here](Ayo_D_CV.pdf)**
 
 📫 **How to reach me:** https://linkedin.com/in/ayokunledurojaiye | durojaiyeaustin@gmail.com
