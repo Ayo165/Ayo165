@@ -22,7 +22,7 @@ Here is a documented history of my hands-on labs and security assessments.
 4.  **[Detection Lab & Password Spray Attack](https://github.com/Ayo165/Active-Directory-Detection-Lab/blob/main/README.md)** - *Active Directory, Windows Server, Splunk*
 5.  **[Phishing Investigation & Triage](https://github.com/Ayo165/Phishing-Investigation-Triage/tree/main)** - *Email Analysis, Python, IOC Extraction*
 6.  **[NIST Incident Response Playbook](https://github.com/Ayo165/NIST-IR-Playbook/tree/main)** - *IR Process, Tabletop Testing, Documentation*
-7.  **[Cloud & IAM Security Assessment](#)** - *Cloud Misconfigurations, Privilege Escalation*
+7.  **[Cloud & IAM Security Assessment](https://github.com/Ayo165/Cloud-IAM-Security-Assessment/tree/main)** - *Cloud Misconfigurations, Privilege Escalation*
 8.  **[Vulnerability Management Report](#)** - *Nmap Scanning, Risk Prioritization, Remediation*
 9.  **[Security Risk Assessment](#)** - *NIST CSF, GRC, Controls Analysis*
 10. **[AI Security Assessment](#)** - *Local LLM, Prompt Injection, AI Governance*
