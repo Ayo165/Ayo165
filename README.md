@@ -16,7 +16,7 @@ I am a dedicated cybersecurity professional with a foundation in highly analytic
 ### 📂 Cybersecurity Portfolio (The 10 Projects)
 Here is a documented history of my hands-on labs and security assessments. 
 
-1.  **[ELK Stack SIEM Implementation](#)** - *Elasticsearch, Logstash, Kibana, Log Analysis*
+1.  **[ELK Stack SIEM Implementation](https://github.com/Ayo165/ELK-Stack-SIEM-Implementation/tree/main)** - *Elasticsearch, Logstash, Kibana, Log Analysis*
 2.  **[Ubuntu Network Firewall Configuration](#)** - *Linux, UFW, Access Control, Infrastructure Protection*
 3.  **[Organizational Risk Assessment](#)** - *Threat Modeling, Mitigation Strategies, Asset Security*
 4.  **[Detection Lab & Password Spray Attack](#)** - *Active Directory, Windows Server, Splunk*
