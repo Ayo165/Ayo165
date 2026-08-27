@@ -1,4 +1,4 @@
-# Hi, I'm Durojaiye Ayokunle 😉
+# Hi, I'm Durojaiye Ayokunle
 
 ### Cybersecurity Analyst | Security Researcher
 I am a dedicated cybersecurity professional with a foundation in highly analytical, systems-level problem solving. I am a First-Class undergrad student in Mechanical Engineering, I bring a rigorous, fact-based, and process-driven approach to threat detection, incident response, and risk management. I focus on building secure architectures and mitigating vulnerabilities in complex environments.
@@ -21,7 +21,7 @@ Here is a documented history of my hands-on labs and security assessments.
 3.  **[Organizational Risk Assessment](https://github.com/Ayo165/Organizational-Risk-Assessment/tree/main)** - *Threat Modeling, Mitigation Strategies, Asset Security*
 4.  **[Detection Lab & Password Spray Attack](https://github.com/Ayo165/Active-Directory-Detection-Lab/blob/main/README.md)** - *Active Directory, Windows Server, Splunk*
 5.  **[Phishing Investigation & Triage](https://github.com/Ayo165/Phishing-Investigation-Triage/tree/main)** - *Email Analysis, Python, IOC Extraction*
-6.  **[NIST Incident Response Playbook](#)** - *IR Process, Tabletop Testing, Documentation*
+6.  **[NIST Incident Response Playbook](https://github.com/Ayo165/NIST-IR-Playbook/tree/main)** - *IR Process, Tabletop Testing, Documentation*
 7.  **[Cloud & IAM Security Assessment](#)** - *Cloud Misconfigurations, Privilege Escalation*
 8.  **[Vulnerability Management Report](#)** - *Nmap Scanning, Risk Prioritization, Remediation*
 9.  **[Security Risk Assessment](#)** - *NIST CSF, GRC, Controls Analysis*
