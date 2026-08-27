@@ -31,4 +31,4 @@ Here is a documented history of my hands-on labs and security assessments.
 *   [Insert Certification 2 Name Here]
 *   📄 **[Download my complete CV here](Ayo_D_CV.pdf)**
 
-📫 **How to reach me:** [https://linkedin.com/in/ayokunledurojaiye] | [durojaiyeaustin@gmail.com]
+📫 **How to reach me:** https://linkedin.com/in/ayokunledurojaiye | durojaiyeaustin@gmail.com
