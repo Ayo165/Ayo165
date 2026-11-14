@@ -1,7 +1,7 @@
 # Hi, I'm Durojaiye Ayokunle
 
-### Cybersecurity Analyst | Security Researcher | Web3 Product Mananger
-I am a dedicated cybersecurity professional with a foundation in highly analytical, systems-level problem solving. I am a First-Class undergrad student in Mechanical Engineering, I bring a rigorous, fact-based, and process-driven approach to threat detection, incident response, and risk management. I focus on building secure architectures and mitigating vulnerabilities in complex environments.
+### Cybersecurity Analyst | Security Researcher | Web3 Product Manager
+I am a dedicated cybersecurity professional with a foundation in highly analytical, systems-level problem solving. I am a First-Class grad. in Mechanical Engineering, I bring a rigorous, fact-based, and process-driven approach to threat detection, incident response, and risk management. I focus on building secure architectures and mitigating vulnerabilities in complex environments.
 
 ---
 
@@ -29,7 +29,7 @@ Here is a documented history of my hands-on labs and security assessments.
 
 ---
 
-### 📜 Certifications & Resume
+### 📜 Certifications
 *   **[Network Defense by CISCO Networking Academy](https://www.credly.com/badges/a0ad8cf1-c2ae-4e50-bb99-28ed6b102df2/print)**
 *   **[Junior Cybersecurity Analyst Career Path by CISCO Networking Academy](https://www.credly.com/badges/c9b2d06c-3cbc-4cc3-9efc-dd4fc4ddfc85/print)**
 *   **[Endpoint Security by CISCO Networking Academy](https://www.credly.com/badges/b5864460-009c-4ab1-987a-c1b9220a8e64/print)**
