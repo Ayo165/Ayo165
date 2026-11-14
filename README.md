@@ -1,15 +1,38 @@
 # Hi, I'm Durojaiye Ayokunle
 
 ### Cybersecurity Analyst | Security Researcher | Web3 Product Manager
-I am a dedicated cybersecurity professional with a foundation in highly analytical, systems-level problem solving. I am a First-Class grad. in Mechanical Engineering, I bring a rigorous, fact-based, and process-driven approach to threat detection, incident response, and risk management. I focus on building secure architectures and mitigating vulnerabilities in complex environments.
+I am a Web3 Product Manager and cybersecurity professional with a foundation in highly analytical, systems-level problem-solving. Graduating with a First-Class in Mechanical Engineering, I bring a rigorous, fact-based, and process-driven approach to product development, threat detection, and risk management. I focus on bridging decentralized finance with real-world utility by defining technical roadmaps, building secure Web3 architectures, and mitigating vulnerabilities in complex environments.
 
 ---
 
-### 🛠️ Skills & Competencies
+### 💻 Web3 Product Management Portfolio
+
+*   **CreditGraph**
+
+Role: Co-Founder
+
+Focus: EVM, ZK-SNARKs, ERC-4337, AI Underwriting, USDC Liquidity
+
+Impact: Directed the product vision and technical roadmap for a decentralized micro-lending protocol targeting unbanked MSMEs in emerging markets. Designed the core mechanics for a Community Attestation Vault to secure uncollateralized loans. Managed the integration of autonomous Python-based AI agents for alternative cash-flow underwriting with Solidity smart contracts deployed on the Arc Mainnet.
+
+
+*   **Tensile**
+
+Role: Co-Founder
+
+Focus: EVM (Foundry), Monad, Robinhood Chain, ERC-721 / ERC-4626, Chainlink Proof of Reserve, AI Document Intelligence, Atomic DvP
+
+Impact: Directed the product vision and technical architecture for an on-chain trade finance platform that tokenizes physical industrial materials to bridge the $2.5 trillion global credit gap. Engineered a strict physical-to-digital bridge integrating autonomous AI agents for mill certificate parsing, Chainlink Proof of Reserve for custody validation, and an atomic Delivery-versus-Payment (DvP) marketplace for instant stablecoin lending and settlement.
+
+---
+
+### 🛠️ Tools, Skills & Competencies
 *   **Defensive Security:** SIEM (Splunk, Microsoft Sentinel), Log Analysis, Active Directory
 *   **Offensive Security:** Vulnerability Scanning (Nmap), Phishing Analysis, Prompt Injection
 *   **Frameworks & Compliance:** NIST Cybersecurity Framework (CSF), Incident Response Playbooks
 *   **Scripting & Tools:** Python, Wireshark, VirtualBox
+*   **Web3 & AI Technologies:** EVM, Solidity, ZK-SNARKs, ERC-4337 (Account Abstraction), Autonomous AI Agents, USDC Escrow
+*   **Web3 Product Management:** Product Roadmapping, Go-to-Market Strategy, Tokenomics Design, Protocol Architecture
 
 ---
 
