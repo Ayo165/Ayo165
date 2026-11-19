@@ -7,6 +7,15 @@ I am a Web3 Product Manager and cybersecurity professional with a foundation in 
 
 ### 💻 Web3 Product Management Portfolio
 
+*   **Singletonne**
+
+Role: Product Manager
+
+Focus: EVM, Solidity, Google Vertex AI, Carbon Verification, On-Chain Registry
+
+Impact: Directed the product vision and technical roadmap for an AI and blockchain-based carbon credit verification platform targeting African climate projects and global marketplaces. Designed the core mechanics for a deterministic on-chain registry to mathematically prevent double-counting and lower audit barriers for grassroots initiatives. Managed the integration of Google Vertex AI document extraction pipelines with Foundry-tested Solidity smart contracts deployed on the Ethereum Sepolia testnet.
+
+
 *   **CreditGraph**
 
 Role: Co-Founder
